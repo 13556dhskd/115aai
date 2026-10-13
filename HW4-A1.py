@@ -1,8 +1,8 @@
 a, b = map(int, input().split())
 
 if a > b:
-    print("大於")
+    print("Greater")
 elif a < b:
-    print("小於")
+    print("Smaller")
 else:
-    print("等於")
+    print("Equal")
